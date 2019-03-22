@@ -3,7 +3,7 @@
 This guide provides information about how PMs, Writers, Content Strategists, and other members from the feature team can contribute to our official Release Notes content on [docs.microsoft.com](https://docs.microsoft.com/en-us/business-applications-release-notes/). 
 For all basic information about using GitHub to create content with our team, refer to the main [Contributors Guide](contributors-guide.md). Use this guide for specifics about the Release Notes project, including [differences](rn-dos-donts.md) from the Contributors Guide. 
 
-- **April '19 Release Notes:** Under development. Publishing January 2019. 
+- **[April '19 Release Notes](https://docs.microsoft.com/en-us/business-applications-release-notes/April19/index):** Publishing updates on Docs every week on Tuesdays and Thursdays.
 - **[October '18 Release Notes](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/index):** Publishing updates on Docs every week on Tuesdays and Thursdays, and in monthly PDFs until March 2019.
 - **[April '18 Release Notes](https://docs.microsoft.com/en-us/business-applications-release-notes/April18/index):** Less publishing is being done on this first Release Notes project. No more PDFs will be created. If you merge changes to master, they will be picked up with the next weekly publish on Docs. 
 
