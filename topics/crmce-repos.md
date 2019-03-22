@@ -23,6 +23,7 @@ akey: avalue
 | PowerApps - Public                                 | https://github.com/MicrosoftDocs/powerapps-docs                      | https://docs.microsoft.com/powerapps | Shared Loc with APEX |
 | Power Platform - Private                           | https://github.com/MicrosoftDocs/power-platform-pr                   | https://docs.microsoft.com/power-platform | Not yet Loc'ed |
 | Release Notes - Private                            | https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes    | https://docs.microsoft.com/business-applications-release-notes | Loc by BAG IE CE |
+| Forms Pro - Private                                | https://github.com/MicrosoftDocs/forms-pro-pr                        | https://docs.microsoft.com/forms-pro/ | Not yet Loc'ed |
 
 # BACX repos managed by other teams
 
